@@ -1,1 +1,2 @@
 # IKT
+## Kiss Dávid beadandó
